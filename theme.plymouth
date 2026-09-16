@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Plymouth Greetings
+Description=Hello and Goodbye Minimalist Theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/plymouth-greetings
+ScriptFile=/usr/share/plymouth/themes/plymouth-greetings/theme.script
